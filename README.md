@@ -1,5 +1,5 @@
 # Blackjack
-A simple [blackjack](https://en.wikipedia.org/wiki/Blackjack) simulator with most of the black jack rules instead of splitting which will be updated soon(if I don't plz remind me by writting an issue). It has a nice graphical user interface made by tkinter module which gives you real life experience of playing blackjack in Las Vegas.
+A simple [blackjack](https://en.wikipedia.org/wiki/Blackjack) simulator with most of the black jack rules instead of splitting and surrender which will be updated soon(if I don't plz remind me by writting an issue). It has a nice graphical user interface made by tkinter module which gives you real life experience of playing blackjack in Las Vegas.
 # Making of the project
 This project was a little simpler than I expected it to be, as I had reffered some other blackjack repositories and then coded my own. This was my first experience with [Tkinter](https://docs.python.org/3/library/tkinter.html) module which I thought would be great but still I would like to stick with [PyQt5's](https://pypi.org/project/PyQt5/) designer as it helps a lot.
 # How did I got this idea
